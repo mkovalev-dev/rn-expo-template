@@ -1,11 +1,12 @@
 {
-  "name": "rn-expo-template",
+  "name": "@mkovalev-dev/rn-expo-template",
   "description": "Custom template for react-native Expo",
   "author": {
     "name": "Kovalev Maxim",
     "email": "mkovalevhse@yandex.ru"
   },
-  "version": "1.0.0",
+  "repository": "https://github.com/mkovalev-dev/rn-expo-template",
+  "version": "1.0.1",
   "main": "node_modules/expo/AppEntry.js",
   "scripts": {
     "start": "expo start",
